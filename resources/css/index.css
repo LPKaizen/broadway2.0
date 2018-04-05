@@ -1,1 +1,33 @@
 
+
+body{
+  font-family: helvetica;
+  text-align: center;
+}
+
+#title{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+ul li{
+  list-style-position: outside;
+  list-style-type: none;
+  padding-bottom: 8px;
+  color:white;
+  text-decoration: underline;
+  font-size: 18px;
+}
+
+#bi
+{
+  background-image:url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#copyright
+{
+  text-align: left;
+}
