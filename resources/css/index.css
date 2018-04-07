@@ -15,7 +15,7 @@ ul li{
   list-style-position: outside;
   list-style-type: none;
   padding-bottom: 8px;
-  color:white;
+  color:red;
   text-decoration: underline;
   font-size: 18px;
   font-weight: 500px;
@@ -29,8 +29,6 @@ ul li{
   font-weight: bolder;
   font-weight: 900;
   background-size: contain;
-
-
 }
 
 #copyright
