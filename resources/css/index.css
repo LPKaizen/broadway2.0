@@ -35,7 +35,7 @@ ul li{
   background-repeat: round;
 }
 
-#copyright
+.copyright
 {
   text-align: left;
   background-color: dimgrey;
@@ -63,10 +63,11 @@ font-size: 32px;
 font-weight: bold;
 }
 
-a, a:visited, a:hover, a:active {
-  color: white;
-}
 
 .smallprint{
   font-size: 14px;
+}
+
+a{
+  color: white;
 }
