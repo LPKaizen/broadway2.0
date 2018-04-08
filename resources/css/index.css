@@ -15,23 +15,58 @@ ul li{
   list-style-position: outside;
   list-style-type: none;
   padding-bottom: 8px;
-  color:red;
   text-decoration: underline;
   font-size: 18px;
   font-weight: 500px;
+  color: inherit;
+  padding-bottom: 15px;
+
 }
 
 #bi
 {
   background-image:url("../images/the-flatiron-building.png");
   background-repeat: no-repeat;
-  background-size: cover;
+
   font-weight: bolder;
   font-weight: 900;
-  background-size: contain;
+  background-position: right;
+  background-size: cover;
+  background-repeat: round;
 }
 
 #copyright
 {
   text-align: left;
+  background-color: dimgrey;
+  color: white;
+}
+
+#newyork
+{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image:url("../images/the-flatiron-building.png");
+  background-size: cover;
+}
+
+
+.iue{
+  font-size: 23px;
+  font-weight: bold;
+  color: black;
+}
+
+#aboutus{
+font-size: 32px;
+font-weight: bold;
+}
+
+a, a:visited, a:hover, a:active {
+  color: white;
+}
+
+.smallprint{
+  font-size: 14px;
 }
